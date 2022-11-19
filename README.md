@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Aplikasi Manajemen Burjo</h1>
+<h1 align="center">Aplikasi Sistem Informasi Manajemen Burjo Berbasis Web</h1>
 
 <span align="center">
 
