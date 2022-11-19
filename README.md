@@ -16,7 +16,6 @@
 <b>Teknologi yang digunakan</b>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
-<li>Backend : Uinsu Web Framework - Base php MVC tutorial pak Sandhika Galih(Web Programming Unpas)</li>
 <li>Javascript : Vue JS, Native Javascript, & Jquery</li>
 <li>Bootstrap Theme By <a href='https://demo.getstisla.com/index.html'>[Stisla]</a></li>
 <li>Cloud Serverless & Realtime Event : Firebase</li>
@@ -48,11 +47,12 @@
 <li>Setting Front End Customer Page</li>
 </ul>
 <br/>
-<b>Development Team</b>
+<b>Kelompok 7 | SIA</b>
 <ul>
-<li> Hasnah Nur Ardita : Project Manager & Front End Development</li>
-<li> Aditia Darma Nst : Backend Development</li>
-<li> Muhammad Rizky : Microservice</li>
+<li> Ahmad Najmudin Alfatih</li>
+<li> Karunia Nur Apriyanti</li>
+<li> Wanda Nur Halimah</li>
+<li> Windi Pramesti</li>
 </ul>
 
 <h3>Tampilan Aplikasi</h3>
@@ -171,25 +171,19 @@
 <!-- row -->
 </table>
 
-<h4><b>Persiapan sebelum menggunakan aplikasi</b></h4>
+<h4><b>Tutorial Instalasi Ke Localhost Project SIA</b></h4>
 
 <ul>
-<li> Pastikan yang di download/clone adalah versi release dari aplikasi ini</li>
-<li> Konfigurasi path server di file <code>engine/rule/base.php</code></li>
-<li> Konfigurasi database di file <code>engine/rule/database.php</code></li>
-<li> Untuk database, silahkan buka halaman <code>path-to-app/dbMigrate</code>. Namun pastikan settingan path server & konfigurasi database sudah benar.</li>
+<li>Download Repository kami menggunakan gitdash dengan command "git clone https://projectsia-burjo.git.io"</li>
+<li> Untuk menyesuaikan kembali database pada file <code>engine/rule/base.php</code></li>
+<li> Lalu sesuaikan dengan database sebelumnya di file <code>engine/rule/database.php</code></li>
+<li> Dan juga pada bagian file dengan format sql di file <code>database/burjo-sia.sql</code></li>
+<li> setelah itu buat database baru pada phpmyadmin, akan tetapi pastikan terlebih dahulu konfigurasi path database ketiga file sebelumnya sama</li>
 <li> Untuk printer cetak struk, tipe yang disarankan adalah (Epson TM-T82, Thermal Printer GP-5890XIII, Epson T-88IIIP, MiniPOS MP-RP58L), atau tipe lain yang mendukung sdk escopos</li>
-<li> Untuk notifikasi ke whatsapp pelanggan, kami mengintegrasikan ke layanan woowa, silahkan berlangganan untuk mendapatkan key & mengaktifkan di aplikasi ini.</li>
-<li> Konfigurasi pengaturan restoran sebelum menggunakan aplikasi ini</li>
+<li> Untuk notifikasi ke whatsapp pelanggan, kami menggunakan integrasi melalui website yang tersedia https://woo-wa.com/, silahkan berlangganan untuk mendapatkan key & mengaktifkan di aplikasi ini.</li>
+<li> Konfigurasi pengaturan burjo sebelum menggunakan aplikasi ini</li>
 <li> Untuk mengaktifkan pemesanan delivery order membutukan service firebase, silahkan buat akun firebase & setting di menu aplikasi</li>
 </ul>
 
-<p>Jika mengalami masalah dalam instalasi, ataupun operasional dari aplikasinya, silahkan hubungi kami di whatsapp <b>(082272177022)</b> atau email <b>alditha.forum@gmail.com</b>. Aplikasi ini kami beri lisensi opensource (MIT) jadi teman teman bebas untuk menggunakan & mengembangkannya kembali. Apabila teman" menemukan bug yang ada di aplikasi ini,
+<p>jika terdapat masalah atau kesalahan dalam aplikasi kami dapat menghubungi maupun memberikan masukan/issue melalui <b>https://github.com/evermore6/projectsia-burjo.github.io</b>. Aplikasi ini kami beri lisensi opensource (MIT) jadi teman teman bebas untuk menggunakan & mengembangkannya kembali. Apabila teman" menemukan bug yang ada di aplikasi ini,
 kami berharap dapat membantu pemgembangan aplikasi ini untuk lebih bagus lagi.</p>
-
-<p>Silahkan subs channel Haxors Update di telegram untuk mendapatkan informasi terbaru seputar perkembangan aplikasi" yang sedang dikembangkan oleh haxorsprogramming : 
-<h3><a href='https://t.me/haxorsupdate'>Channel Telegram Haxorsprogramming</a></h3></p>
-
-<p align='justify'>
-Ingin berkontribusi untuk pengembangan club programming ini? atau anda meraasa terbantu dengan aplikasi ini? bantu kami melalui donasi lewat saweria di <h2><a href='https://saweria.co/donate/haxorsprogramming'>Saweria Haxorsprogramming</a></h2>sedikit banyaknya donasi dapat memberi kontribusi yang positif bagi perkembangan club ini. Terima kasih, salam koding .. ^_^
-</p>
