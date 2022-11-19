@@ -12,7 +12,7 @@
 
 <hr/>
 <br/><br/>
-<b>Teknologi yang digunakan</b>
+<b>Komponen yang digunakan</b>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
 <li>Javascript : Vue JS, Native Javascript, & Jquery</li>
