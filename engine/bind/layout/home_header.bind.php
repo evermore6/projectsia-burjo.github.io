@@ -34,7 +34,7 @@
                     <!-- Logo -->
                     <div class="module module-logo dark">
                         <a href="#!" style="margin-top:20px;">
-                            <img src="<?=HOMEBASE; ?>ladun/burjo1.png" alt="" style="width: 200px;">
+                            <img src="<?=HOMEBASE; ?>ladun/burjo.png" alt="" style="width: 200px;">
                         </a>
                     </div>
                 </div>

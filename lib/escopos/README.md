@@ -344,7 +344,7 @@ A minimal example:
 
 ```php
 <?php
-$img = EscposImage::load("burjo1.png");
+$img = EscposImage::load("burjo.png");
 $printer -> graphics($img);
 ```
 

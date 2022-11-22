@@ -371,7 +371,7 @@ INSERT INTO `tbl_setting` (`id`, `kd_setting`, `caption`, `deks`, `value`) VALUE
 (6, 'status_setting', 'Status Setting', '-', 'done'),
 (7, 'nama_owner', 'Nama Owner Resto', '', 'Hasnah Nur Ardita'),
 (8, 'email_resto', 'Email Restoran', 'Alamat email restoran', 'hi@justhasnah.my.id'),
-(9, 'logo_resto', 'Logo Restoran', '', 'burjo1.png'),
+(9, 'logo_resto', 'Logo Restoran', '', 'burjo.png'),
 (10, 'awal_pembukuan', 'Tahun awal pembukuan', '', '2020'),
 (11, 'api_woo_wa', 'API Key WooWa', '', ''),
 (12, 'saldo_awal', 'Saldo awal resto', '', '1000000'),
