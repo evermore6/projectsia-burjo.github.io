@@ -43,7 +43,7 @@
                         <!-- Logo -->
                         <div class="module module-logo dark">
                             <a href="<?=HOMEBASE; ?>home">
-                                <img src="<?=HOMEBASE; ?>ladun/download.png" alt="" style="width: 200px;">
+                                <img src="<?=HOMEBASE; ?>ladun/burjo1.png" alt="" style="width: 200px;">
                             </a>
                         </div>
                     </div>

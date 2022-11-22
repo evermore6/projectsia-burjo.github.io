@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h1 align="center">Aplikasi Manajemen Burjo</h1>
+<h1 align="center">Aplikasi Sistem Informasi Manajemen Burjo Berbasis Web</h1>
 
 <span align="center">
 
@@ -12,7 +12,7 @@
 
 <hr/>
 <br/><br/>
-<b>Teknologi yang digunakan</b>
+<b>Komponen yang digunakan</b>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
 <li>Javascript : Vue JS, Native Javascript, & Jquery</li>

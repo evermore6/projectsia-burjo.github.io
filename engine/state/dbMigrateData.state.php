@@ -352,7 +352,7 @@ class dbMigrateData{
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (8,"email_resto","Email Restoran","Alamat email restoran","hi@justhasnah.my.id");');
         $this -> st -> queryRun();
         // logo_resto 
-        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (9,"logo_resto","Logo Restoran","","download.png");');
+        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (9,"logo_resto","Logo Restoran","","burjo1.png");');
         $this -> st -> queryRun();
         // awal_pembukuan 
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (10,"awal_pembukuan","Tahun awal pembukuan","","2020");');

@@ -76,7 +76,7 @@
         <aside id="sidebar-wrapper">
             <div class="sidebar-brand">
               <a href="#!" style='height:30px;'>
-              <img src='<?=STYLEBASE; ?>/login/images/download.png' style="width: 100px;">
+              <img src='<?=STYLEBASE; ?>/login/images/burjo1.png' style="width: 100px;">
               </a>
             </div>
             <div class="sidebar-brand sidebar-brand-sm">

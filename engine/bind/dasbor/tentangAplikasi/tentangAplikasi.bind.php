@@ -59,7 +59,7 @@
             <div class="card-header"><h4>Tentang Aplikasi</h4></div>
             <div class="card-body">
                 <div style="text-align: center;margin-bottom:15px;">
-                <img src="<?=STYLEBASE; ?>/login/images/download.png" style="width: 200px;">
+                <img src="<?=STYLEBASE; ?>/login/images/burjo1.png" style="width: 200px;">
                 </div>
                 <p style="text-align: justify;">
                 <strong>Burjo POS</strong> adalah salah satu project aplikasi yang dibuat untuk memenuhi tugas akhir pada mata kuliah SISTEM INFORMASI AKUNTANSI.
