@@ -158,7 +158,7 @@ class deliveryOrder extends Route{
         $penerima = $detailPelanggan['email'];
         $judul = "Pesanan Selesai - ".$namaResto;
         $link = "90122-".$kdPesanan."-NRST-ADNRS-SPELLBEE";
-        $isi = "Halo ".$namaPelanggan.", terima kasih telah melakukan pemesanan di burjo kami. <br/>";
+        $isi = "Halo ".$namaPelanggan.", terima kasih telah melakukan pemesanan di resto kami. <br/>";
         $isi .= "Pesanan anda telah selesai, cek detail pesanan anda di ";
         $isi .= "<a href='".HOMEBASE."home/pesanan/".$link."'>sini</a><br/><br/><br/>Salam<br/>".$namaResto;
         $this -> kirimEmail($namaPelanggan, $penerima, $judul, $isi, $emailHost, $passwordHost);
@@ -167,7 +167,7 @@ class deliveryOrder extends Route{
         // Send notifkasi whatsapp 
         $key = $this -> state($this -> su) -> getSettingResto('api_woo_wa');
         $hp = $detailPelanggan['no_hp'];
-        $message = "Pesanan anda telah selesai. Kode pesanan : ".$kdPesanan." - Terima kasih telah melakukan transaksi di burjo kami. Salam -".$namaResto;
+        $message = "Pesanan anda telah selesai. Kode pesanan : ".$kdPesanan." - Terima kasih telah melakukan transaksi di resto kami. Salam -".$namaResto;
         $this -> sendWaNotif($key, $hp, $message);
         $data['status'] = 'sukses';
         $this -> toJson($data);

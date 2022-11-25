@@ -6,7 +6,7 @@
             <div class="card-body">
             <ul class="list-unstyled list-unstyled-border">
                     <li class="media">
-                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/hasnah_ardita.jpg" class="mr-3 rounded-circle" width="50" src="" alt="Hasnah">
+                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/jeni.jfif" class="mr-3 rounded-circle" width="50" src="" alt="Hasnah">
                       <div class="media-body">
                         <div class="float-right text-primary">7211421093</div>
                         <div class="media-title">Windi Pramesti </div>
@@ -14,7 +14,7 @@
                       </div>
                     </li>
                     <li class="media">
-                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/adit.jpg" class="mr-3 rounded-circle" width="50" src="" alt="Adit">
+                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/asd.jfif" class="mr-3 rounded-circle" width="50" src="" alt="Adit">
                       <div class="media-body">
                         <div class="float-right text-primary">7211421224</div>
                         <div class="media-title">Wanda Nur Halimah</div>
@@ -22,7 +22,7 @@
                       </div>
                     </li>
                     <li class="media">
-                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/anna.jpg" class="mr-3 rounded-circle" width="50" src="" alt="Anna">
+                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/aa.jfif" class="mr-3 rounded-circle" width="50" src="" alt="Anna">
                       <div class="media-body">
                         <div class="float-right text-primary">7211421358</div>
                         <div class="media-title">Ahmad Najmudin Alfatih</div>
@@ -30,7 +30,7 @@
                       </div>
                     </li>
                     <li class="media">
-                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/adam.jpg" class="mr-3 rounded-circle" width="50" src="" alt="Adam">
+                      <img src="<?=STYLEBASE; ?>/dasbor/img/devTeam/abc.jfif" class="mr-3 rounded-circle" width="50" src="" alt="Adam">
                       <div class="media-body">
                         <div class="float-right text-primary">7211421210</div>
                         <div class="media-title">Karunia Nur Apriyanti</div>
@@ -59,11 +59,11 @@
             <div class="card-header"><h4>Tentang Aplikasi</h4></div>
             <div class="card-body">
                 <div style="text-align: center;margin-bottom:15px;">
-                <img src="<?=STYLEBASE; ?>/login/images/burjo.png" style="width: 200px;">
+                <img src="<?=STYLEBASE; ?>/login/images/burjo3.png" style="width: 200px;">
                 </div>
                 <p style="text-align: justify;">
                 <strong>Burjo POS</strong> adalah salah satu project aplikasi yang dibuat untuk memenuhi tugas akhir pada mata kuliah SISTEM INFORMASI AKUNTANSI.
-                Kami berharap agar aplikasi ini dapat digunakan secara menyeluruh bagi pelaku UMKM disekitar agar pelaku usaha dapat menjalankan maupun mengikuti proses digitalisasi dalam usaha mereka agar dapat berkembang. 
+                Kami berharap agar aplikasi ini dapat digunakan secara menyeluruh bagi pelaku UMKM disekitar, dengan begitu pelaku usaha dapat menjalankan maupun mengikuti proses digitalisasi dengan harapan usaha mereka dapat berkembang. 
                 Kami juga akan selalu menerima kritik & saran dari teman teman baik dari pemilik usaha ataupun yang lain yang mungkin bisa memberikan 
                 masukan atau saran kepada kami. Aplikasi ini sepenuhnya berlisensi opensource (MIT) yang artinya dapat digunakan secara gratis, 
                 serta bagi teman teman yang ingin membantu pengembangan lebih lanjut, juga kami persilahkan untuk membedah & memperbaiki aplikasi yang kami kembangkan.

@@ -1,7 +1,8 @@
 <p align="center">
+<img src='https://github.com/haxorsprogramming/Haxors-Contributors/blob/master/haxors_project/nadha_resto.png?raw=true' width='500px'>
 </p>
 
-<h1 align="center">Aplikasi Sistem Informasi Manajemen Burjo Berbasis Web</h1>
+<h1 align="center">Aplikasi Manajemen Restoran</h1>
 
 <span align="center">
 
@@ -12,9 +13,10 @@
 
 <hr/>
 <br/><br/>
-<b>Komponen yang digunakan</b>
+<b>Teknologi yang digunakan</b>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
+<li>Backend : Uinsu Web Framework - Base php MVC tutorial pak Sandhika Galih(Web Programming Unpas)</li>
 <li>Javascript : Vue JS, Native Javascript, & Jquery</li>
 <li>Bootstrap Theme By <a href='https://demo.getstisla.com/index.html'>[Stisla]</a></li>
 <li>Cloud Serverless & Realtime Event : Firebase</li>
@@ -46,12 +48,11 @@
 <li>Setting Front End Customer Page</li>
 </ul>
 <br/>
-<b>Kelompok 7 | SIA</b>
+<b>Development Team</b>
 <ul>
-<li> Ahmad Najmudin Alfatih</li>
-<li> Karunia Nur Apriyanti</li>
-<li> Wanda Nur Halimah</li>
-<li> Windi Pramesti</li>
+<li> Hasnah Nur Ardita : Project Manager & Front End Development</li>
+<li> Aditia Darma Nst : Backend Development</li>
+<li> Muhammad Rizky : Microservice</li>
 </ul>
 
 <h3>Tampilan Aplikasi</h3>
@@ -61,108 +62,134 @@
 <tr>
 <td>
 <small>Home (Halaman Depan)</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/home.jpg' width='100%'>
 </td>
 <td>
 <small>Menu Order</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/menu_order_1.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Menu List</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/menu_order_2.jpg' width='100%'>
 </td>
 <td>
 <small>Cart</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/menu_order_3.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Checkout</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/checkout.jpg' width='100%'>
 </td>
 <td>
 <small>Notifikasi Email</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/email.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Beranda</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/beranda.jpg' width='100%'>
 </td>
 <td>
 <small>Form Pesanan</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_pesanan.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Pilih Menu</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_pilih_menu.jpg' width='100%'>
 </td>
 <td>
 <small>Pembayaran</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_pembayaran.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Data Menu</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/data_menu.jpeg' width='100%'>
 </td>
 <td>
 <small>Form Tambah Menu</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_tambah_menu.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Data Pelanggan</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/data_pelanggan.jpg' width='100%'>
 </td>
 <td>
 <small>Pembelian Bahan Baku</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/pembelian_bahan_baku.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Form Pembelian Bahan Baku</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_pembelian_bahan_baku.jpg' width='100%'>
 </td>
 <td>
 <small>Laporan Transaksi</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/laporan_transaksi.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Arus Kas</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/arus_kas.jpg' width='100%'>
 </td>
 <td>
 <small>Statistik</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/statistik.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 <tr>
 <td>
 <small>Setting Resto</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/form_pilih_menu.jpg' width='100%'>
 </td>
 <td>
 <small>Setting Front End</small>
+<img src='http://asset.justhasnah.my.id/screenshoot/Nadha_Resto/setting_slider_utama.jpg' width='100%'>
 </td>
 </tr>
 <!-- row -->
 </table>
 
-<h4><b>Tutorial Instalasi Ke Localhost Project SIA</b></h4>
+<h4><b>Persiapan sebelum menggunakan aplikasi</b></h4>
 
 <ul>
-<li>Download Repository kami menggunakan gitdash dengan command "git clone https://projectsia-burjo.git.io"</li>
-<li> Untuk menyesuaikan kembali database pada file <code>engine/rule/base.php</code></li>
-<li> Lalu sesuaikan dengan database sebelumnya di file <code>engine/rule/database.php</code></li>
-<li> Dan juga pada bagian file dengan format sql di file <code>database/burjo-sia.sql</code></li>
-<li> setelah itu buat database baru pada phpmyadmin, akan tetapi pastikan terlebih dahulu konfigurasi path database ketiga file sebelumnya sama</li>
+<li> Pastikan yang di download/clone adalah versi release dari aplikasi ini</li>
+<li> Konfigurasi path server di file <code>engine/rule/base.php</code></li>
+<li> Konfigurasi database di file <code>engine/rule/database.php</code></li>
+<li> Untuk database, silahkan buka halaman <code>path-to-app/dbMigrate</code>. Namun pastikan settingan path server & konfigurasi database sudah benar.</li>
 <li> Untuk printer cetak struk, tipe yang disarankan adalah (Epson TM-T82, Thermal Printer GP-5890XIII, Epson T-88IIIP, MiniPOS MP-RP58L), atau tipe lain yang mendukung sdk escopos</li>
-<li> Untuk notifikasi ke whatsapp pelanggan, kami menggunakan integrasi melalui website yang tersedia https://woo-wa.com/, silahkan berlangganan untuk mendapatkan key & mengaktifkan di aplikasi ini.</li>
-<li> Konfigurasi pengaturan burjo sebelum menggunakan aplikasi ini</li>
+<li> Untuk notifikasi ke whatsapp pelanggan, kami mengintegrasikan ke layanan woowa, silahkan berlangganan untuk mendapatkan key & mengaktifkan di aplikasi ini.</li>
+<li> Konfigurasi pengaturan restoran sebelum menggunakan aplikasi ini</li>
 <li> Untuk mengaktifkan pemesanan delivery order membutukan service firebase, silahkan buat akun firebase & setting di menu aplikasi</li>
 </ul>
 
-<p>jika terdapat masalah atau kesalahan dalam aplikasi kami dapat menghubungi maupun memberikan masukan/issue melalui <b>https://github.com/evermore6/projectsia-burjo.github.io</b>. Aplikasi ini kami beri lisensi opensource (MIT) jadi teman teman bebas untuk menggunakan & mengembangkannya kembali. Apabila teman" menemukan bug yang ada di aplikasi ini,
+<p>Jika mengalami masalah dalam instalasi, ataupun operasional dari aplikasinya, silahkan hubungi kami di whatsapp <b>(082272177022)</b> atau email <b>alditha.forum@gmail.com</b>. Aplikasi ini kami beri lisensi opensource (MIT) jadi teman teman bebas untuk menggunakan & mengembangkannya kembali. Apabila teman" menemukan bug yang ada di aplikasi ini,
 kami berharap dapat membantu pemgembangan aplikasi ini untuk lebih bagus lagi.</p>
+
+<p>Silahkan subs channel Haxors Update di telegram untuk mendapatkan informasi terbaru seputar perkembangan aplikasi" yang sedang dikembangkan oleh haxorsprogramming : 
+<h3><a href='https://t.me/haxorsupdate'>Channel Telegram Haxorsprogramming</a></h3></p>
+
+<p align='justify'>
+Ingin berkontribusi untuk pengembangan club programming ini? atau anda meraasa terbantu dengan aplikasi ini? bantu kami melalui donasi lewat saweria di <h2><a href='https://saweria.co/donate/haxorsprogramming'>Saweria Haxorsprogramming</a></h2>sedikit banyaknya donasi dapat memberi kontribusi yang positif bagi perkembangan club ini. Terima kasih, salam koding .. ^_^
+</p>

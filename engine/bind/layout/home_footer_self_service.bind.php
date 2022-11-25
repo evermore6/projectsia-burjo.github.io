@@ -30,7 +30,7 @@
                     </div>
                     <!-- Footer 2nd Row -->
                     <div class="footer-second-row">
-                        <span class="text-sm text-muted">NadhaResto <br> Develop By Haxorsprogramming</span>
+                        <span class="text-sm text-muted">SIA <br> | Kelompok 7</span>
                     </div>
                 </div>
                 <!-- Back To Top -->

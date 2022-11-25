@@ -29,11 +29,11 @@
         <div class="col-lg-6 col-md-6 col-sm-6 col-12">
             <div class="card card-primary">
                 <div class="card-header">
-                    <h4>Hubungi kami apabila mengalami kendala dalam pengaplikasian website</h4>
+                    <h4>Bantuan ke kelompok 7 - Tentang Aplikasi</h4>
                 </div>
                 <div class="card-body">
                     <p>
-                        Silahkan kirim email ke <a href='najanajmudin12@gmail.com'>najanajmudin12@gmail.com</a> untuk bertanya seputar aplikasi ini
+                        Silahkan tanyakan ke kami <a href='mailto:najanajmudin12@gmail.com'>najanajmudin12@gmail.com</a> untuk bertanya seputar aplikasi ini
                     </p>
                 </div>
             </div>

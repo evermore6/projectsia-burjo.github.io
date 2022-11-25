@@ -7,7 +7,7 @@ class PDF extends FPDF
 function Header()
 {
 	// Logo
-	$this->Image('burjo.png',10,6,30);
+	$this->Image('download.png',10,6,30);
 	// Arial bold 15
 	$this->SetFont('Arial','B',15);
 	// Move to the right

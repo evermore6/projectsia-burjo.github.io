@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <!-- Title -->
-<title><?=$data['namaResto']; ?> - Aplikasi Manajemen Restoran</title>
+<title><?=$data['namaResto']; ?> - Aplikasi Manajemen Burjo</title>
 <!-- Favicons -->
 <link rel="shortcut icon" href="assets/img/favicon.png">
 <link rel="apple-touch-icon" href="assets/img/favicon_60x60.png">

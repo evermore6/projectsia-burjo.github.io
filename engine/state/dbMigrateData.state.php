@@ -331,7 +331,7 @@ class dbMigrateData{
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (1,"tax","Pajak restoran","Tambahann pajak ketika pembayaran","5");');
         $this -> st -> queryRun();
         // nama resto 
-        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (2,"nama_resto","Nama restoran","Nama Restoran","Nadha Resto");');
+        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (2,"nama_resto","Nama restoran","Nama Restoran","BurjoPOS");');
         $this -> st -> queryRun();
         // ip_address_print_kasir 
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (3,"ip_address_print_kasir","Ip address printer kasir","Alamat ip address printer kasir","127.0.0.1");');
@@ -352,7 +352,7 @@ class dbMigrateData{
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (8,"email_resto","Email Restoran","Alamat email restoran","hi@justhasnah.my.id");');
         $this -> st -> queryRun();
         // logo_resto 
-        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (9,"logo_resto","Logo Restoran","","burjo.png");');
+        $this -> st -> query('INSERT INTO `tbl_setting` VALUES (9,"logo_resto","Logo Restoran","","download.png");');
         $this -> st -> queryRun();
         // awal_pembukuan 
         $this -> st -> query('INSERT INTO `tbl_setting` VALUES (10,"awal_pembukuan","Tahun awal pembukuan","","2020");');

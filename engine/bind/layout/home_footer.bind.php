@@ -5,7 +5,7 @@
         <!-- Footer 2nd Row -->
         <div class="footer-second-row row align-items-center">
             <div class="col-lg-4 text-center text-md-left">
-                <span class="text-sm text-muted">NadhaResto <br> Develop By Haxorsprogramming</span>
+                <span class="text-sm text-muted">SIA <br> || Kelompok 7</span>
             </div>
             <div class="col-lg-4 text-center">
                 <a href="#!"><img src="assets/img/logo-light.svg" alt="" width="88" class="mt-5 mb-5"></a>
