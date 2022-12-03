@@ -153,7 +153,7 @@
 <h4><b>Tutorial Instalasi Ke Localhost Project SIA</b></h4>
 
 <ul>
-<li>Download Repository kami menggunakan gitdash dengan command "git clone https://projectsia-burjo.git.io"</li>
+<li>Download Repository kami menggunakan gitdash dengan command "git clone [https://github.com/evermore6/projectsia-burjo.github.io]"</li>
 <li> Untuk menyesuaikan kembali database pada file <code>engine/rule/base.php</code></li>
 <li> Lalu sesuaikan dengan database sebelumnya di file <code>engine/rule/database.php</code></li>
 <li> Dan juga pada bagian file dengan format sql di file <code>database/burjo-sia.sql</code></li>
